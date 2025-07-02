@@ -1,6 +1,9 @@
 # 🌐 QuantumGate 3D Login Portal
 
-![Login Page Demo](https://3dlogin-page.netlify.app/)
+![Login-page Preview](Login-page.png) 
+
+## 🚀 Live Demo
+(https://3dlogin-page.netlify.app/))<!-- Add your live demo link here -->
 
 > A futuristic 3D animated login interface with cyberpunk aesthetics and particle effects
 
